@@ -1,0 +1,4 @@
+127.0.0.1 admin.localhost:3000
+127.0.0.1 api.localhost:3000
+
+#need add  above items  at  /etc/hosts/ (mac)
